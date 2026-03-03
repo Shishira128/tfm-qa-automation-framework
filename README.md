@@ -64,34 +64,35 @@ The framework follows:
 ---
 
 ## 📂 Project Structure
+
+
+```
 TFM_QA_Automation/
 │
 ├── pages/
-│ ├── base_page.py
-│ ├── signup_page.py
-│ ├── brand_page.py
-│ ├── product_page.py
-│ ├── cart_page.py
-│ ├── checkout_page.py
-│ ├── payment_page.py
-│ ├── order_page.py
+│   ├── base_page.py
+│   ├── signup_page.py
+│   ├── brand_page.py
+│   ├── product_page.py
+│   ├── cart_page.py
+│   ├── checkout_page.py
+│   ├── payment_page.py
+│   └── order_page.py
 │
 ├── tests/
-│ └── test_e2e_flow.py
+│   └── test_e2e_flow.py
 │
 ├── utils/
-│ └── config.py
+│   └── config.py
 │
 ├── reports/
-│ └── report.html
+│   └── report.html
 │
 ├── conftest.py
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
-
-
----
+```
 
 ##  Framework Architecture Explanation
 
