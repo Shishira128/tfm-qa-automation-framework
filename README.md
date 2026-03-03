@@ -8,6 +8,8 @@ End-to-End QA Automation Framework for TFM web application using Selenium, Pytho
 
 This project is an End-to-End (E2E) automation framework built for the TFM Web Application:
 
+## 🎥 Test Execution Recording
+Screen Recording Link: https://drive.google.com/file/d/1mO9Uq1U1joJmlQ3u3EBuQyph--FqjCxX/view?usp=sharing
 Application URL: https://dev.trulyfree.com/  
 Environment: QA / Staging  
 Browser: Chrome  
